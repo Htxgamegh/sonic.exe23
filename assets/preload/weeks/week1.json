@@ -1,22 +1,68 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
-	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"storyName": "Nightmare Universe",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
 	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"simulation",
+			"exetior",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"one eyed freak",
+			"pervision",
+			[
+				0,
+				0,
+				120
+			]
+		],
+		[
+			"killjoy",
+			"sarki",
+			[
+				0,
+				95,
+				175
+			]
+		],
+		[
+			"anger reflected",
+			"pervision",
+			[
+				0,
+				0,
+				53
+			]
+		],
+		[
+			"tired",
+			"pervision",
+			[
+				0,
+				0,
+				53
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Week 1",
+	"hiddenUntilUnlocked": false
 }
