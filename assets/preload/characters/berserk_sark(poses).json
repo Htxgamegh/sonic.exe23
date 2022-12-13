@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bs_idle"
+		},
+		{
+			"offsets": [
+				-8,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bs_left"
+		},
+		{
+			"offsets": [
+				-143,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bs_down"
+		},
+		{
+			"offsets": [
+				-26,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bs_up"
+		},
+		{
+			"offsets": [
+				-57,
+				158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bs_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/berserk_sark(poses)",
+	"position": [
+		-370,
+		-420
+	],
+	"healthicon": "icon-sark_berserk",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		102,
+		141
+	],
+	"camera_position": [
+		112,
+		-238
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

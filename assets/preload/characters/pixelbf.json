@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "idle",
+			"loop": false,
+			"name": "Pixel-Boyfriend idle"
+		},
+		{
+			"offsets": [
+				-16,
+				36
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Pixel-Boyfriend upmiss"
+		},
+		{
+			"offsets": [
+				-7,
+				36
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Pixel-Boyfriend up000"
+		},
+		{
+			"offsets": [
+				2,
+				-18
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Pixel-Boyfriend down000"
+		},
+		{
+			"offsets": [
+				2,
+				-9
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Pixel-Boyfriend downmiss"
+		},
+		{
+			"offsets": [
+				-7,
+				-9
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Pixel-Boyfriend rightmiss"
+		},
+		{
+			"offsets": [
+				20,
+				18
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Pixel-Boyfriend leftmiss"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Pixel-Boyfriend left000"
+		},
+		{
+			"offsets": [
+				2,
+				-18
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Pixel-Boyfriend right000"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pixelbf",
+	"position": [
+		0,
+		410
+	],
+	"healthicon": "bf16",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		100,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 9
+}

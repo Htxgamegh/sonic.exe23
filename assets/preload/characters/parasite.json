@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				255,
+				111
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "blue 000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				111
+			],
+			"anim": "firstDeath",
+			"fps": 0,
+			"name": "blue 000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-53,
+				-39
+			],
+			"anim": "deathLoop",
+			"fps": 0,
+			"name": "bf000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/parasite",
+	"position": [
+		-950,
+		-90
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		650,
+		-20
+	],
+	"sing_duration": 3,
+	"scale": 0.9
+}
