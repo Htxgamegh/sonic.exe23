@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "Exetior_stage",
+		"player1": "bf",
+		"player2": "exetior",
+		"player3": null,
+		"events": [
+			[
+				80963.8554216868,
+				[
+					[
+						"BlackOut",
+						"true",
+						"true"
+					]
+				]
+			],
+			[
+				81234.9397590362,
+				[
+					[
+						"Image Flash",
+						"SC",
+						"2.02s"
+					]
+				]
+			],
+			[
+				83132.530120482,
+				[
+					[
+						"Change Character",
+						"1",
+						"exetiorpixel"
+					],
+					[
+						"Change Character",
+						"0",
+						"pixelbf"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83403.6144578314,
+				[
+					[
+						"stage test",
+						"ExetiorPixel",
+						"Exetior_stage"
+					]
+				]
+			],
+			[
+				86656.6265060242,
+				[
+					[
+						"BlackOut",
+						"false",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "none",
+		"bpm": 166,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Simulation"
+	}
+}
