@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pixelbf.png">
+<SubTexture name="Pixel-Boyfriend idle0000" x="0" y="0" width="34" height="43" frameX="-4" frameY="-6" frameWidth="35" frameHeight="47" />
+<SubTexture name="Pixel-Boyfriend idle0001" x="34" y="0" width="34" height="43" frameX="-4" frameY="-6" frameWidth="35" frameHeight="47" />
+<SubTexture name="Pixel-Boyfriend idle0002" x="68" y="0" width="33" height="43" frameX="-4" frameY="-6" frameWidth="35" frameHeight="47" />
+<SubTexture name="Pixel-Boyfriend idle0003" x="101" y="0" width="34" height="43" frameX="-4" frameY="-6" frameWidth="35" frameHeight="47" />
+<SubTexture name="Pixel-Boyfriend idle0004" x="0" y="0" width="34" height="43" frameX="-4" frameY="-6" frameWidth="35" frameHeight="47" />
+<SubTexture name="Pixel-Boyfriend down0000" x="135" y="0" width="34" height="42" frameX="-4" frameY="-5" frameWidth="35" frameHeight="47" />
+<SubTexture name="Pixel-Boyfriend down0001" x="169" y="0" width="34" height="42" frameX="-4" frameY="-5" frameWidth="35" frameHeight="47" />
+<SubTexture name="Pixel-Boyfriend down0002" x="0" y="43" width="34" height="42" frameX="-4" frameY="-5" frameWidth="35" frameHeight="47" />
+<SubTexture name="Pixel-Boyfriend down0003" x="34" y="43" width="34" height="41" frameX="-4" frameY="-6" frameWidth="35" frameHeight="47" />
+<SubTexture name="Pixel-Boyfriend down0004" x="68" y="43" width="34" height="41" frameX="-4" frameY="-6" frameWidth="35" frameHeight="47" />
+<SubTexture name="Pixel-Boyfriend downmiss0000" x="102" y="43" width="34" height="43" frameX="-5" frameY="-4" frameWidth="38" frameHeight="45" />
+<SubTexture name="Pixel-Boyfriend downmiss0001" x="136" y="43" width="34" height="44" frameX="-4" frameY="-3" frameWidth="38" frameHeight="45" />
+<SubTexture name="Pixel-Boyfriend downmiss0002" x="170" y="43" width="34" height="44" frameX="-4" frameY="-3" frameWidth="38" frameHeight="45" />
+<SubTexture name="Pixel-Boyfriend downmiss0003" x="0" y="87" width="34" height="43" frameX="-4" frameY="-5" frameWidth="38" frameHeight="46" />
+<SubTexture name="Pixel-Boyfriend left0000" x="34" y="87" width="34" height="43" frameX="-3" frameY="-6" frameWidth="36" frameHeight="48" />
+<SubTexture name="Pixel-Boyfriend left0001" x="68" y="87" width="33" height="42" frameX="-3" frameY="-7" frameWidth="36" frameHeight="48" />
+<SubTexture name="Pixel-Boyfriend left0002" x="101" y="87" width="33" height="43" frameX="-3" frameY="-6" frameWidth="36" frameHeight="48" />
+<SubTexture name="Pixel-Boyfriend left0003" x="134" y="87" width="33" height="43" frameX="-3" frameY="-6" frameWidth="36" frameHeight="48" />
+<SubTexture name="Pixel-Boyfriend leftmiss0000" x="167" y="87" width="34" height="45" frameX="-6" frameY="-6" frameWidth="40" frameHeight="50" />
+<SubTexture name="Pixel-Boyfriend leftmiss0001" x="0" y="132" width="33" height="45" frameX="-6" frameY="-6" frameWidth="40" frameHeight="50" />
+<SubTexture name="Pixel-Boyfriend leftmiss0002" x="33" y="132" width="33" height="43" frameX="-6" frameY="-8" frameWidth="40" frameHeight="50" />
+<SubTexture name="Pixel-Boyfriend right0000" x="66" y="132" width="36" height="43" frameX="-4" frameY="-4" frameWidth="40" frameHeight="45" />
+<SubTexture name="Pixel-Boyfriend right0001" x="102" y="132" width="37" height="43" frameX="-4" frameY="-4" frameWidth="40" frameHeight="45" />
+<SubTexture name="Pixel-Boyfriend right0002" x="139" y="132" width="38" height="43" frameX="-4" frameY="-4" frameWidth="40" frameHeight="45" />
+<SubTexture name="Pixel-Boyfriend right0003" x="177" y="132" width="38" height="43" frameX="-4" frameY="-4" frameWidth="40" frameHeight="45" />
+<SubTexture name="Pixel-Boyfriend rightmiss0000" x="0" y="177" width="36" height="44" frameX="-3" frameY="-4" frameWidth="37" frameHeight="46" />
+<SubTexture name="Pixel-Boyfriend rightmiss0001" x="36" y="177" width="37" height="44" frameX="-3" frameY="-4" frameWidth="37" frameHeight="46" />
+<SubTexture name="Pixel-Boyfriend rightmiss0002" x="73" y="177" width="38" height="44" frameX="-3" frameY="-4" frameWidth="37" frameHeight="46" />
+<SubTexture name="Pixel-Boyfriend up0000" x="111" y="177" width="35" height="44" frameX="-3" frameY="-9" frameWidth="36" frameHeight="51" />
+<SubTexture name="Pixel-Boyfriend up0001" x="146" y="177" width="36" height="45" frameX="-3" frameY="-8" frameWidth="36" frameHeight="51" />
+<SubTexture name="Pixel-Boyfriend up0002" x="182" y="177" width="36" height="46" frameX="-3" frameY="-7" frameWidth="36" frameHeight="51" />
+<SubTexture name="Pixel-Boyfriend up0003" x="0" y="223" width="36" height="46" frameX="-3" frameY="-7" frameWidth="36" frameHeight="51" />
+<SubTexture name="Pixel-Boyfriend upmiss0000" x="36" y="223" width="35" height="45" frameX="-2" frameY="-8" frameWidth="35" frameHeight="51" />
+<SubTexture name="Pixel-Boyfriend upmiss0001" x="71" y="223" width="36" height="45" frameX="-2" frameY="-8" frameWidth="35" frameHeight="51" />
+<SubTexture name="Pixel-Boyfriend upmiss0002" x="107" y="223" width="36" height="46" frameX="-2" frameY="-7" frameWidth="35" frameHeight="51" />
+</TextureAtlas>

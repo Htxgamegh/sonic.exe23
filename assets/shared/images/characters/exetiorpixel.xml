@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="exetiorpixel.png">
+    <SubTexture name="ExetiorPixel idle0000" x="0" y="0" width="36" height="45" frameX="-1" frameY="-4" frameWidth="37" frameHeight="48" />
+    <SubTexture name="ExetiorPixel idle0001" x="36" y="0" width="36" height="45" frameX="-1" frameY="-4" frameWidth="37" frameHeight="48" />
+    <SubTexture name="ExetiorPixel idle0002" x="36" y="0" width="36" height="45" frameX="-1" frameY="-4" frameWidth="37" frameHeight="48" />
+    <SubTexture name="ExetiorPixel idle0003" x="72" y="0" width="36" height="45" frameX="-1" frameY="-4" frameWidth="37" frameHeight="48" />
+    <SubTexture name="ExetiorPixel idle0004" x="108" y="0" width="36" height="45" frameX="-1" frameY="-4" frameWidth="37" frameHeight="48" />
+    <SubTexture name="ExetiorPixel idle0005" x="144" y="0" width="36" height="45" frameX="-1" frameY="-4" frameWidth="37" frameHeight="48" />
+    <SubTexture name="ExetiorPixel down0000" x="0" y="45" width="39" height="44" frameX="-3" frameY="-5" frameWidth="39" frameHeight="47" />
+    <SubTexture name="ExetiorPixel down0001" x="39" y="45" width="38" height="44" frameX="-3" frameY="-5" frameWidth="39" frameHeight="47" />
+    <SubTexture name="ExetiorPixel down0002" x="77" y="45" width="38" height="44" frameX="-3" frameY="-5" frameWidth="39" frameHeight="47" />
+    <SubTexture name="ExetiorPixel down0003" x="115" y="45" width="38" height="44" frameX="-3" frameY="-5" frameWidth="39" frameHeight="47" />
+    <SubTexture name="ExetiorPixel left0000" x="153" y="45" width="38" height="46" frameX="-6" frameY="-3" frameWidth="43" frameHeight="49" />
+    <SubTexture name="ExetiorPixel left0001" x="0" y="91" width="37" height="46" frameX="-7" frameY="-3" frameWidth="43" frameHeight="49" />
+    <SubTexture name="ExetiorPixel left0002" x="37" y="91" width="38" height="46" frameX="-7" frameY="-3" frameWidth="43" frameHeight="49" />
+    <SubTexture name="ExetiorPixel left0003" x="75" y="91" width="35" height="47" frameX="-8" frameY="-2" frameWidth="43" frameHeight="49" />
+    <SubTexture name="ExetiorPixel right0000" x="110" y="91" width="37" height="45" frameX="0" frameY="-5" frameWidth="43" frameHeight="49" />
+    <SubTexture name="ExetiorPixel right0001" x="147" y="91" width="38" height="45" frameX="0" frameY="-5" frameWidth="43" frameHeight="49" />
+    <SubTexture name="ExetiorPixel right0002" x="0" y="138" width="41" height="45" frameX="0" frameY="-5" frameWidth="43" frameHeight="49" />
+    <SubTexture name="ExetiorPixel right0003" x="41" y="138" width="41" height="45" frameX="0" frameY="-5" frameWidth="43" frameHeight="49" />
+    <SubTexture name="ExetiorPixel up0000" x="82" y="138" width="38" height="46" frameX="-4" frameY="-3" frameWidth="41" frameHeight="49" />
+    <SubTexture name="ExetiorPixel up0001" x="120" y="138" width="38" height="47" frameX="-4" frameY="-3" frameWidth="41" frameHeight="49" />
+    <SubTexture name="ExetiorPixel up0002" x="158" y="138" width="39" height="48" frameX="-4" frameY="-3" frameWidth="41" frameHeight="49" />
+    <SubTexture name="ExetiorPixel up0003" x="0" y="186" width="39" height="47" frameX="-4" frameY="-3" frameWidth="41" frameHeight="49" />
+</TextureAtlas>

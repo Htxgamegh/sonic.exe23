@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="berserk_sark(idle).png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bs_idle0000" x="0" y="0" width="1165" height="1532" frameX="-44" frameY="0" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0001" x="0" y="0" width="1165" height="1532" frameX="-44" frameY="0" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0002" x="1165" y="0" width="1190" height="1507" frameX="0" frameY="-11" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0003" x="2355" y="0" width="1120" height="1483" frameX="-51" frameY="-21" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0004" x="3475" y="0" width="1030" height="1456" frameX="-121" frameY="-33" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0005" x="4505" y="0" width="1039" height="1430" frameX="-91" frameY="-44" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0006" x="5544" y="0" width="1006" height="1401" frameX="-103" frameY="-57" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0007" x="6550" y="0" width="971" height="1373" frameX="-116" frameY="-69" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0008" x="0" y="1532" width="936" height="1343" frameX="-128" frameY="-82" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0009" x="936" y="1532" width="900" height="1321" frameX="-141" frameY="-86" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0010" x="1836" y="1532" width="874" height="1309" frameX="-153" frameY="-91" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0011" x="1836" y="1532" width="874" height="1309" frameX="-153" frameY="-91" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0012" x="1836" y="1532" width="874" height="1309" frameX="-153" frameY="-91" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0013" x="1836" y="1532" width="874" height="1309" frameX="-153" frameY="-91" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0014" x="1836" y="1532" width="874" height="1309" frameX="-153" frameY="-91" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0015" x="1836" y="1532" width="874" height="1309" frameX="-153" frameY="-91" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0016" x="1836" y="1532" width="874" height="1309" frameX="-153" frameY="-91" frameWidth="1211" frameHeight="1532"/>
+	<SubTexture name="Bs_idle0017" x="1836" y="1532" width="874" height="1309" frameX="-153" frameY="-91" frameWidth="1211" frameHeight="1532"/>
+</TextureAtlas>
